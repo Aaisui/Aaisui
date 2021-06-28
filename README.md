@@ -27,7 +27,7 @@
 <tr>
   <td valign="top" width="50%">
 
-### ⭐校内的其他方向师傅们
+### ✨校内的其他方向师傅们
 
 - [💧哥哥](http://www.starssgo.top/)
 - [逆向人CXING他不写博客](https://blog.csdn.net/SC_king)
