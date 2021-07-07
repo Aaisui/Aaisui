@@ -30,7 +30,7 @@
 ### ✨校内的其他方向师傅们
 
 - [💧哥哥](http://www.starssgo.top/)
-- [逆向人CXING他不写博客](https://blog.csdn.net/SC_king)
+- [逆向人CXING他不写博客](https://www.cnblogs.com/cx1ng)
 - [MISC](http://mklkx.github.io/)
 - [密码学小姐姐vigorous](http://39.102.45.111/)
 
