@@ -33,8 +33,6 @@
 - [逆向人CXING他不写博客](https://www.cnblogs.com/cx1ng)
 - [MISC](http://mklkx.github.io/)
 - [密码学小姐姐vigorous](http://39.102.45.111/)
-- [👨‍❤️‍👨学弟](https://goat2003.github.io/)
-- [鸟人学弟](https://www.cnblogs.com/Ph03n1x/p/14876471.html)
 
   </td>
   <td valign="top" width="50%">
