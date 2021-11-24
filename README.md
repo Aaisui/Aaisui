@@ -5,7 +5,7 @@
 - ✍️ [博客](https://ysllz.github.io/)（已经不更新了，放在github上了）
 - 🤔 最近在学习XSS相关知识，希望能够有师傅指点
 - 🏃 本人QQ： 3514520240 欢迎各位师傅来找我玩！
-
+![弦子](https://gitee.com/yyssllz/pic/raw/master/image-20211124132919722.png)
 
 <table width="100%">
 <tr>
@@ -13,7 +13,7 @@
 
 ### 我的爱人
    弦子
-   ![弦子](https://gitee.com/yyssllz/pic/raw/master/image-20211124132919722.png)
+
   </td>
   <td valign="top" width="50%">
 
