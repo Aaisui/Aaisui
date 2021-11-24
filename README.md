@@ -12,7 +12,8 @@
   <td valign="top" width="50%">
 
 ### 我的爱人
-    🐋
+   弦子
+   https://gitee.com/yyssllz/pic/raw/master/image-20211124132919722.png
 
   </td>
   <td valign="top" width="50%">
@@ -32,7 +33,6 @@
 - [💧哥哥](http://www.starssgo.top/)
 - [逆向人CXING](https://www.cnblogs.com/cx1ng)
 - [MISC](http://mklkx.github.io/)
-- [密码学小姐姐vigorous](http://39.102.45.111/)
 
   </td>
   <td valign="top" width="50%">
