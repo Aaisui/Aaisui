@@ -13,6 +13,7 @@
 
 ### 我的爱人
    弦子
+   ![](https://gitee.com/yyssllz/pic/raw/master/image-20211124132919722.png)
   </td>
   <td valign="top" width="50%">
 
