@@ -6,7 +6,7 @@
 - 🤔 最近在学习XSS相关知识，希望能够有师傅指点
 - 🏃 本人QQ： 3514520240 欢迎各位师傅来找我玩！
 ![弦子](https://gitee.com/yyssllz/pic/raw/master/image-20211124132919722.png)
-
+![12NC~4X%DHRU(A~NEAOR H9](https://user-images.githubusercontent.com/65217163/132127795-9d0773a1-cb79-4f23-90ec-1d7e6ab2dd86.gif)
 <table width="100%">
 <tr>
   <td valign="top" width="50%">
