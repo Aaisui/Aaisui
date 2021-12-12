@@ -15,9 +15,8 @@
   </td>
   <td valign="top" width="50%">
 
-### 🌐 偷来的统计图
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ysllz&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+### 🌐 认识的别的师傅们
+- [Harvey](https://harvey.plus/)
 
 
   </td>
