@@ -15,7 +15,7 @@
   </td>
   <td valign="top" width="50%">
 
-### 🌐 认识的别的师傅们
+### 🌐 带师傅们
 - [Harvey](https://harvey.plus/)
 
 
