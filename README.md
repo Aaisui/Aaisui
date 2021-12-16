@@ -28,7 +28,7 @@
 
 - [💧哥哥](http://www.starssgo.top/)
 - [逆向人CXING](https://www.cnblogs.com/cx1ng)
-- [MISC](http://mklkx.github.io/)
+- [MISC👵](http://mklkx.github.io/)
 
   </td>
   <td valign="top" width="50%">
