@@ -1,4 +1,4 @@
-![image](https://github.com/Aaisui/Aaisui/assets/57386745/7f07532d-9dc6-4bdd-a3f3-df98126a1596)
+
  ### 关于本人
 
 - 👋 CTF-SU战队成员
